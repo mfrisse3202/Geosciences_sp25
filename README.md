@@ -14,9 +14,15 @@ the dataset because it was such an extreme outlier. I determined that we might e
 37 years, it was getting weighted too heavily. 
 
 # Figures Produced 
-<img src ="/images/GStat-sim_master_figure.png" align = "center">
+<img src ="Impact_E_hist.png" align = "center">
 
-# Datasets
+ Figure 1: Log-scale distribution of impact energies from NASA dataset. 
+ 
+<img src ="gpd_survival_and prob.png" align = "center">
+
+ Figure 2: General Pareto Distribution fit overlayed with data points, as an x VS (P(X>x)) plot in terms of impact energy.
+
+# Dataset
 
 The data used is from NASA’s Jet Propulsion Laboratory, Center for Near Earth Object Studies. 
 Over 1,000 events have been documented since 1988, and can be accessed here: https://cneos.jpl.nasa.gov/fireballs/ .
